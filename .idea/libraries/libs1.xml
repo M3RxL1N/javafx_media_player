@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="libs1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/mediaplayer/libs/fontawesomefx-fontawesome-4.7.0-5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/mediaplayer/libs/jfoenix-8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/mediaplayer/libs/fontawesomefx-commons-8.15.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
