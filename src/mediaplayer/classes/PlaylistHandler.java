@@ -6,10 +6,7 @@ import java.util.Random;
 import javafx.collections.ListChangeListener;
 import javafx.scene.control.ListView;
 
-/**
- *
- * @author redayoub
- */
+
 public class PlaylistHandler {
     private ListView<File> mediaListView;
     private int[] internalPlylist;

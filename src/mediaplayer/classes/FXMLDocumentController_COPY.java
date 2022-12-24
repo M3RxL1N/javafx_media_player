@@ -78,11 +78,6 @@ import mediaplayer.classes.RepeatState;
 import mediaplayer.classes.ShuffleState;
 import mediaplayer.ui.FileCell.File_Cell;
 
-
-/**
- *
- * @author redayoub
- */
 public class FXMLDocumentController_COPY implements Initializable {
 
     @FXML
@@ -154,10 +149,7 @@ public class FXMLDocumentController_COPY implements Initializable {
     @FXML
     private AnchorPane uiControlBtnPane;
    
-    
-   
-    
-    
+
     @Override
     public void initialize(URL url, ResourceBundle rb) {
         // TODO

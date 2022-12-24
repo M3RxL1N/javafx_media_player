@@ -13,10 +13,7 @@ import java.util.ResourceBundle;
 import java.util.Set;
 import javafx.stage.Stage;
 
-/**
- *
- * @author redayoub
- */
+
 public class MyResources extends ResourceBundle{
     Stage myStage;
     public MyResources(Stage myStage) {

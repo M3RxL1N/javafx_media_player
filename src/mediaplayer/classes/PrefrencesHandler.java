@@ -12,10 +12,7 @@ import java.util.prefs.InvalidPreferencesFormatException;
 import java.util.prefs.Preferences;
 import javafx.scene.media.MediaPlayer;
 
-/**
- *
- * @author redayoub
- */
+
 public class PrefrencesHandler {
     private final Preferences preferences;
     private static PrefrencesHandler prefrencesHandler;

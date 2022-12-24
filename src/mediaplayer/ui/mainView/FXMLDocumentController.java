@@ -81,10 +81,6 @@ import mediaplayer.classes.ShuffleState;
 import mediaplayer.ui.FileCell.File_Cell;
 
 
-/**
- *
- * @author redayoub
- */
 public class FXMLDocumentController implements Initializable {
 
     private static FXMLDocumentController Instance;

@@ -21,11 +21,6 @@ import javafx.scene.control.ListCell;
 import javafx.scene.input.MouseEvent;
 import mediaplayer.ui.mainView.FXMLDocumentController;
 
-/**
- * FXML Controller class
- *
- * @author redayoub
- */
 public class File_Cell extends ListCell<File>{
     @FXML
     private Label filenameLabel;
