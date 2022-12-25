@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/javafx_media_player.iml" filepath="$PROJECT_DIR$/javafx_media_player.iml" />
+      <module fileurl="file://$PROJECT_DIR$/media_player.iml" filepath="$PROJECT_DIR$/media_player.iml" />
     </modules>
   </component>
 </project>

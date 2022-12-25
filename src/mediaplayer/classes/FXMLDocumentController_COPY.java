@@ -334,10 +334,7 @@ public class FXMLDocumentController_COPY implements Initializable {
         }
         return false;
     }
-    /**
-     * @param file 
-     * @return true if the file format is accepted
-     */
+
     private boolean isAcceptedFile(File f) {
         
         for (String format:prefrencesHandler.getAccAudioFormats()){
