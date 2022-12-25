@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MediaPlayer:jar">
+    <output-path>$PROJECT_DIR$/build/artifacts/MediaPlayer_jar</output-path>
+    <root id="archive" name="MediaPlayer.jar">
+      <element id="module-output" name="MediaPlayer" />
+      <element id="library" level="project" name="MediaPlayer" />
+      <element id="library" level="project" name="lib" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/mediaplayer/libs/fontawesomefx-fontawesome-4.7.0-5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/mediaplayer/libs/jfoenix-8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/mediaplayer/libs/fontawesomefx-commons-8.15.jar" path-in-jar="/" />
+      <element id="library" level="project" name="libs" />
+    </root>
+  </artifact>
+</component>
